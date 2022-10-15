@@ -6,7 +6,8 @@
       "lastName": "Hardy",
       "age": 20,
       "married": false,
-      "gender": "Male"
+      "gender": "Male",
+      "companyId": "2"
     },
     {
       "id": "2",
@@ -14,7 +15,8 @@
       "lastName": "Jo",
       "age": 28,
       "married": true,
-      "gender": "Male"
+      "gender": "Male",
+      "companyId": "1"
     },
     {
       "id": "3",
@@ -22,7 +24,20 @@
       "lastName": "Cook",
       "age": 42,
       "married": false,
-      "gender": "Female"
+      "gender": "Female",
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Electronics"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Web Services"
     }
   ]
 }
