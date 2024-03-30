@@ -1,0 +1,14 @@
+.formStyle{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+}
+.checkboxDiv{
+    margin-left: -18%;
+}
+
+
